@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eugenea Valerie Lejai Binti Jimmy - Finance Graduate/Job Seeker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo">
+                <h1>Eugenea Valerie</h1>
+                <p>Fresh Graduate | Job Seeker</p>
+            </div>
+            <nav>
+     <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="resume.html">Resume</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <img src="eugenea.jpg" alt="Eugenea Valerie Lejai" class="profile-img">
+            <h2><font size=10>Hello, I am Eugenea Valerie Lejai</h2>
+            <p class="intro">a bit about me:</p>
+            <div class="buttons">
+                <a href="#resume" class="btn resume">MY RESUME</a>
+                <a href="#work" class="btn work">CERTIFICATES</a>
+                <a href="#skills" class="btn skills">CONTACT</a>
+            </div>
+            <p class="description">I'm a paragraph. Click here to add your own text and edit me. It's easy. Just click "Edit Text" or double click me and you can start adding your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I'm a great place for you to write more. Tell a story and let your users get to know you.</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-content">
+            <div class="contact-info">
+                <p><strong>Call</strong><br>017 978 2956<br> 
+                <p><strong>Email</strong><br> valeugenea0.com</p>
+            </div>
+            <div class="social-media">
+                <p><strong>Follow me</strong></p>
+                <ul>
+                    <li><img src="instagram.png"><a href="#">&#xf09a;</a></li>
+                    <li><img src="facebook.png"><a href="#">&#xf099;</a></li>
+                    <li><img src="x logo.png"><a href="#">&#xf0e1;</a></li>
+                </ul>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2023 by Eugenea Valerie Lejai. </p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
